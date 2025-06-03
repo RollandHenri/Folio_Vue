@@ -13,7 +13,9 @@ import Link from "../components/Link.vue";
   left: 0;
   top: 0;
   width: 100%;
-  height: 70px;
-  background-color: rgb(145, 13, 140);
+  height: 60px;
+  background-color: #7e1e51;
+  border-top-left-radius: 25%;
+  border-top-right-radius: 25%;
 }
 </style>

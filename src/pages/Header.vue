@@ -55,6 +55,6 @@ import Navbar from "../pages/Navbar.vue";
   position: fixed;
   bottom: 0;
   width: 100%;
-  z-index: 3;
+  z-index: 1;
 }
 </style>
