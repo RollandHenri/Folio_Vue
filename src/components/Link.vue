@@ -3,8 +3,8 @@
 <template>
   <ul>
     <li>Accueil</li>
-    <li>Skills</li>
-    <li>Folio</li>
+    <li class="after-left">Skills</li>
+    <li class="after-right">Folio</li>
     <li>Contact</li>
   </ul>
 </template>
@@ -21,11 +21,14 @@ ul {
 ul li {
   list-style-type: none;
   width: 100%;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: black;
+  margin: 0;
+  color: white;
   font-weight: 500;
   font-size: 1.2rem;
+  z-index: 3;
 }
 </style>
