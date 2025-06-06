@@ -40,7 +40,7 @@ import Navbar from "../components/Navbar.vue";
 }
 
 .header-hero-logo img {
-  width: 40%;
+  width: 45%;
 }
 
 .header-hero-profil {
