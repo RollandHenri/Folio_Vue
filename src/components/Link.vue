@@ -3,8 +3,9 @@
 <template>
   <ul>
     <li>Accueil</li>
-    <li class="after-left">Skills</li>
-    <li class="after-right">Folio</li>
+    <li>Skills</li>
+
+    <li>Folio</li>
     <li>Contact</li>
   </ul>
 </template>
