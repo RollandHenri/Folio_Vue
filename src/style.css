@@ -22,5 +22,5 @@
 
 body {
   position: relative;
-  height: 300vh;
+  scroll-behavior: smooth;
 }
